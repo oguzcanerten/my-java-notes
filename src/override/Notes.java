@@ -1,0 +1,13 @@
+package override;
+
+
+public class Notes {
+
+	/*OVERRIDE'DAN BAHSEDEBÝLMEK ICIN KALITIM OLMASI GEREKIR
+	 * EXTENDS IMPLEMENTS GIBI IFADELER OLMALIDIR.
+	 * 
+	 */
+	
+	
+	
+}

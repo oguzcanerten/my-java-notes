@@ -1,0 +1,16 @@
+package polymorphism;
+
+public class Notes {
+	
+	/*
+	 * 
+	 * COK BICIMLILIK GIBI ANLAMLARA GELIYOR
+	 * OVERRIDE
+	 * STATIC POLYMORPHISM
+	 * DYNAMIC POLYMORPHISM
+	 * 
+	 * OVERRIDE METOTLARDAN BAHSEDEBÝLMEK ICIN KALITIM GEREKÝR
+	 * 
+	 */
+
+}
